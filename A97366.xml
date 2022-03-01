@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [27th November-5th December 1643]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97366</idno>
+            <idno type="STC">Thomason E77_28</idno>
+            <idno type="STC">ESTC P1079</idno>
+            <idno type="EEBO-CITATION">53403882</idno>
+            <idno type="OCLC"> 53403882</idno>
+            <idno type="VID">155565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97366)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155565)</note>
+            <note>Images scanned from microfilm: (Early English books, Thomason Tracts ; 13:E.77[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [27th November-5th December 1643]</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>[1643].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Weekly publication.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155565:1" rendition="simple:additions"/>
+            <p>Mercurius Cambro-Britannus, <hi>THE BRITTISH MERCURY, OR THE VVELCH DIURNALL.</hi>
+            </p>
+            <p>
+               <hi>Communicating remarkable</hi> Intelligences, <hi>and true Newes to awle the whole Kingdom, from Munday</hi> November <hi>27. to</hi> Decemb. <hi>the 5. 1643.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1</hi> Her be reſolved not to ſide with the King, to fight againſt the Parliament.</item>
+               <item>
+                  <hi>2</hi> Her tell in what lamentable condition the city of Briſtoll at this rreſent is, by reaſon of the Bloody Cavaliers.</item>
+               <item>
+                  <hi>3</hi> Her make repreſentations of the great acceſſe of ſupplies, who are newly come to Sir <hi>William Waller.</hi>
+               </item>
+               <item>
+                  <hi>4</hi> Te brave reſolutions and ſucceſſfull actions which have very lately been ſent in many letters from Dorſetſhire to London.</item>
+               <item>
+                  <hi>5</hi> Her cannot chuſe but grieve with the ſad people of New-caſtle and Durham, for entertain Peter Popery, Perkin Prerogative, Simon ſlavery, Paul Prela<g ref="char:EOLhyphen"/>cie, and Barnaby Biſhop.</item>
+               <item>
+                  <hi>6</hi> Te Town of Plimmouth, her thank GOD, is very well, and ſafe, and the great care the Parliament doth take for preſervation of the ſame.</item>
+               <item>
+                  <hi>7</hi> The Earl of Warwick is ſending forth great many Ships to ſtop the landing of the Rebells comming from Ireland, to exerciſe their late practiſed cruelties up<g ref="char:EOLhyphen"/>on the Proteſtants in England.</item>
+               <item>
+                  <hi>8</hi> The Countreys neere Oxford faſt, while the City of Oxford feaſts.</item>
+               <item>
+                  <hi>9</hi> Her be ſorry to hear that the good Souldiers Colonell <hi>Jonas A Draske,</hi> and Captain <hi>Smith</hi> were wounded at <hi>Odeam,</hi> in Night-ſervice, and are now brought to London.</item>
+               <item>
+                  <hi>10</hi> Her ſhew that the Noble Earl of Mancheſter is rayſing great forces, and in<g ref="char:EOLhyphen"/>tends to joyn with Colonel Crumwell in Lincolnſhire.</item>
+               <item>
+                  <hi>11</hi> Her give the reaſon in the laſt place, Why the Counſell at Oxford is ſo malig<g ref="char:EOLhyphen"/>nant to the comming over of the States Ambaſsadour from Holland.</item>
+            </list>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, <hi>Printed by</hi> Bernard Alſop, <hi>Decemb. 5. 1643.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155565:2"/>
+            <pb n="1" facs="tcp:155565:2"/>
+            <head>THE BRITTISH MERCURY COMMUNICATING Remarkable <hi>Intelligences,</hi> and true <hi>Newes</hi> to awle the whole Kingdome, from Munday <hi>November</hi> 27. to Tueſday <hi>Decemb.</hi> 5. 1643.</head>
+            <p>TO confirm the ancient report that the WELCH-MEN both for An<g ref="char:EOLhyphen"/>tiquity and fidelity, are the trueſt <hi>Brittaine,</hi> her vil declare unto you the noble reſolution of Sir <hi>Richard Lloyd,</hi> one of the chief Com<g ref="char:EOLhyphen"/>manders of <hi>Flintſhire,</hi> who having ſent his Commiſſion of Array unto Sir <hi>Thomas Middleton,</hi> offereth to come to him with fifteen hundred men, to doe ſervice for the Parliament, and beſides the Welchmen being now growne ſenſible, that it is the part of no true Subject, to bring fuell to main<g ref="char:EOLhyphen"/>tain the flames of this unnaturall warre, they doe continually flock in to ſub<g ref="char:EOLhyphen"/>mit themſelves in obedience to the Parliament, for the Welchmen are not ſo madde, but that her doe very well underſtand, that to ſide with the King, is to fight againſt her ſelf, the Proteſtant Religion, and that ancient liberty of the Subject, which though often attempted by many Conquering Monarches, her hath ſo long time freely enjoyed in <hi>Wales.</hi>
+            </p>
+            <p>But we cannot alwayes ſet fayre and loyall actions in the view of your eye, therefore behold the Citie of <hi>Briſtoll</hi> in a lamentable condition, ſwarming with the <hi>Iriſh</hi> Rebells, who having muſtered many hundred Proteſtants in <hi>Ireland,</hi> doe come over with a full intent to bathe their ſwords in the Engliſh blood, and to make this land a deſolate Wilderneſſe, full of ſuch wilde and bloody beaſts, as they are. For one of them being lately (by a woman, who fled thither out of <hi>Ireland</hi> two yeers ſince) challenged for murthering five of her Children; he anſwered, <hi>That he had Commiſsion for it, and if he had the
+<pb n="2" facs="tcp:155565:3"/>like Commiſsion, he would doe as much here.</hi> Her doe wonder, that the Veſſels which bring over ſo many <hi>Hoggs-heads,</hi> or <hi>Doggs-heads</hi> of cruelty, are not caſt away by the juſtice of the Windes, but it is likely, that being not borne under a drowning deſtiny, their fate will lead them on to hanging, according to their papiſticall merits.</p>
+            <p>Sir <hi>William Wallers</hi> Army is now very well recruted, and ſtrengthened by Colonell <hi>Muleyr,</hi> and Colonell <hi>Nortons</hi> Regiment of horſe, and a thouſand horſe and Dragoones of <hi>Kent,</hi> and as many more out of <hi>Suſſex, Surrey</hi> and <hi>Hampſhire.</hi> ſo that the Lord <hi>Hopton,</hi> if her were creat Engliſh Saint, pigger then Saint <hi>George,</hi> or Saint <hi>TAPFY,</hi> himſelf, could not encounter ſo many cruell, nay her may ſay, flying and ſtinging Fyery Dragons.</p>
+            <p>As the <hi>Welchmen,</hi> obſerving that matters were carried on to advance Popery and other ill purpoſes, are now awaked from her Dream and Viſions, to ſee what fooles, nay Slaves they were like to be made, by joyning themſelves to the Kings Army, and doe in conſiderations thereof, purpoſe with their beſt ſer<g ref="char:EOLhyphen"/>vice to ayd the Parliament, ſo the Inhabitants of <hi>Cumberland</hi> and <hi>Weſtmerland</hi> have been of late ſolicited with much importunity by the Lord <hi>Widdrington,</hi> and Sir <hi>Thomas Glenham,</hi> to aſſiſt them with ſupplies of horſe or foot, and ſtand in their defences againſt the invaſions of the advanced <hi>Scots,</hi> but thoſe Coun<g ref="char:EOLhyphen"/>treys being as wiſe as <hi>WALES,</hi> have refuſed to ſend them any ayd, allea<g ref="char:EOLhyphen"/>ging that the Scots, at their laſt being there, carried themſelves with more ci<g ref="char:EOLhyphen"/>vility, and in better faſhions, then the plundering and armed Inhabitants of their own countrey. Hence you may diſcerne, that not the advance money doth make the <hi>Scots</hi> a man, but her cood manners, and true religions, doth make her company ſo much deſired in <hi>England.</hi>
+            </p>
+            <p>From the Weſt her can inform you, that the Garriſon Souldiers at <hi>Poole</hi> in <hi>Dorſetſhire,</hi> made an Iſſue out as far as <hi>Preſton</hi> and took there a French Cap<g ref="char:EOLhyphen"/>taine that commanded Sir <hi>Iohn Heales</hi> troop, and in the night, they fell upon Colonell <hi>Tregewells</hi> quarter at Shapwick, killed ſome men, took ſome Gentle<g ref="char:EOLhyphen"/>men priſoners, and ſome 40. horſe, afterward they killed the Ambuſcade that was ſet behind hedges, and beat them from <hi>Foole</hi> to <hi>Winborne;</hi> took one Cap<g ref="char:EOLhyphen"/>tain, one Enſigne, and ſome fourteen Priſoners: Would all the Garriſon Soul<g ref="char:EOLhyphen"/>diers, that have more time to be drunk, then to doe any thing would ſhew her the like magnanimities and courage.</p>
+            <p>
+               <hi>New-caſtle</hi> doth now repent her favouring and receiving of malignants: You may ſee what 'tis to have friendſhip with the Divell, had you kept them out, you had not now lamented the putting of them in. Though you are called <hi>Newcaſtle,</hi> yet you are an <hi>Old-caſtle,</hi> and ſhould have had more wit, then to admit your enemy, Art thou not able to fall in pieces with age and griefe, to
+<pb n="3" facs="tcp:155565:3"/>think of thy diſobedience to the Parliament, and keeping the Coales from London? which doth ſhew that thy love to the City is very cold, and cold comfort thou ſhalt finde, I warrant thee in thy diſtreſſe, take heed thy new Governor doe not make thee the firſt ſlaved Town ſubjected to the Kings au<g ref="char:EOLhyphen"/>thority, when thy liberty ſhall be ſlavery, plundering thy policy, and thou ſhalt iudure whole chauldrons of miſery; before thou hadſt received malig<g ref="char:EOLhyphen"/>nants, thou hadſt better have fired thy Coale-pits, and have burnt a happy Martyr for the Parliament.</p>
+            <p>The Marqueſſe of New-caſtle is advanced into Nottinghamſhire, to joyne with the Kings forces. Her believe her Armies defire to make a malignant marriage, that the iſſue which their conjunction doth intend to produce, might be foure unhappy ſonnes, Peter Popery, Perkin Prerogative, Simon Slavery, and Paul Prelacy, or Barnaby Bishop; and theſe being the Kings a<g ref="char:EOLhyphen"/>dopted Sonnes, should together with the King rule the whole land. And in<g ref="char:EOLhyphen"/>deed the Newcaſtles Army is falling to pieces, and therefore it had need to be joyned together with the Popish cement and glew of the Kings Army, for there are many ſtones at Oxford, as the Lord <hi>Cottington, Digby,</hi> and others, beſides Prelates that doe all joyne together to build up the Roman Church in England, and would make the King the chiefe corner-ſtone, but though earth conſpire and joyne forces, heaven can denounce their malig<g ref="char:EOLhyphen"/>nant purpoſes, and Newcaſtles Army shall be beaten awle to pieces, and upon the Scots advancing, not a man of them shall goe Scot-free.</p>
+            <p>The towne of Plymmouth is very well and ſafe, you may ſee by them what it is to have good in works, that is good Heart, for though they loſt their Outworks, yet her doe ſtill keep out their enemy, and make her for to pray to the Lady Mary and Saint Margery, and yet they cannot help her to take the towne, and the Parliament hath lately ſent them ayde from hence, ſo that Prince <hi>Rupert,</hi> Prince <hi>Maurice,</hi> and awle the Maſſe-ſaying-Pre<g ref="char:EOLhyphen"/>lates at Oxford, may fling their caps at it, Father <hi>Francis,</hi> and Father. <hi>Ioſeph,</hi> and all the Magicians in Oxford, cannot conjure the gates of the towne open for like a Maiden Towne ſhe doth withſtand the Cavalliors and neither by force nor flattery can be wonne from the Parliament.</p>
+            <p>It is reported that Sir <hi>William Waller</hi> hath given the Lord <hi>Hopton</hi> a great overthrow, and obtained a great victory againſt him, but can believe no ſuch matter, thoſe that are overthrowne horſe and man in books are very well re<g ref="char:EOLhyphen"/>covered the next week. The warre is like a foot-ball-play, where one ſide
+<pb n="4" facs="tcp:155565:4"/>doth give the other a kind of overthrow, and ſtrikes up anothers heeles, but preſently they riſe up and give the other as creat a blow againe, Overthrowes are now very common, but let awle well affected perſons ſtrive that Papiſtry and Prelacy may be overthrowne in this kingdome, and let us pray that Peace may be againe eſtabliſhed, leaſt this kingdome be ruinated by theſe o<g ref="char:EOLhyphen"/>verthrowes, and beſides, what victory is it for one ſubject to kill another? If the King would get a victory over himſelfe, and baniſh from him all ma<g ref="char:EOLhyphen"/>lignant Counſellours, then we ſhould heare no more of Sir <hi>Ralph Hopton</hi> and many other Lords and Knights, that now carry victory in their pockets, and plunders whole Countries, and burnes townes as the Kings forces did at Ockingham.</p>
+            <p>The Earle of Warwick doth deſire of the Parliament forty ſmall ſhips to ſurpriſe Sir <hi>Iohn Penningtons</hi> ſmall frigots that doe bring over the Iriſh Re<g ref="char:EOLhyphen"/>bells, but who ſhall encounter thoſe that are come over already, and the King ſend ſhips dayly for more, and as if his Subjects throates ſhould not be cut ſaſt enough, he ſends dayly for thoſe Butchers. The Iriſh faction doth in<g ref="char:EOLhyphen"/>deed rule very much at Court, and Rebels are in Oxford language called the Kings Catholick Subjects, plundering Cavalliers are Royalliſts, and Popiſh Biſhops are the Kings Shaplins, would his Majeſty would provide ſhips to ſend them all away to Rome, for here is no Roome for them in England, and therefore it were a happy turne if they were hanged or drowned, ſo that we were rid of their Popiſh company.</p>
+            <p>At Oxford there is creat plenty of food and cood dyet, but while they feaſt, they have by their plundering made the Country faſt, who doe curſe them to the bottomleſſe pit of hell; but they need not doe ſo, for if ſwearing and prophane living can bring them on, they are in a faire way.</p>
+            <p>To refresh you after this tedious narration, you may underſtand that at Oxford the Bishops are turned Souldiers, and the Bishop of York hath got a company of ſouldiers to guard the Irish Rebells, and to bring them on by the Grace of the Pope, but her great preparations are but the fables of many reports, who come on purpoſe to Oxford to joyne with the malignants, for they have the Popes and the Kingdomes pardon. Is this the calling of Bi<g ref="char:EOLhyphen"/>ſhops to turne fighters for Roome, when they cannot preach for Roome, nor put poore Miniſters in priſon without Roome; now they will venter the Miter, and goe on with courage they know neither, either to the Divell, or the Pope, or both together.</p>
+            <pb n="5" facs="tcp:155565:4"/>
+            <p>There was a valliant German, <hi>Ionas Adruskey,</hi> called in Engliſh <hi>Van Druſhe,</hi> who having ſhewed the height of the High Germanes valour, under the the Command of Sir <hi>William Waller,</hi> received two ſhots in his arme, and is now brought to London wounded, to the great grief of Sir <hi>William Waller,</hi> who had rather have loſt his right hand; you ſee all true affected Perſons are willing to looſe their lives for the Parliament.</p>
+            <p>Her heare that the Earle of Mancheſter is raiſing creat many foot in the Northern aſſociated Counties, and that Gainsborough and Newarke, and the other Malignant Towns thereabouts will (it is hoped) be faine ſtoope to the Command of the Parliament, for that the Earle of Mancheſter who is now at Cambridge will not ſtay there long, but as ſoon as her hath gotten up her conſiderable forces, her will march that way, and ſhew them what 'tis to be ſo rebelli<g ref="char:EOLhyphen"/>ous, and malignant againſt the Parliament.</p>
+            <p>And to this purpoſe he hath already two thouſand foot at Lin<g ref="char:EOLhyphen"/>colne, to defend that City from the Popiſh Enemy, and hee hath left his cood Horſe (which made the Cavalliers ſo flye before him at Bullingbroke Caſtle) in Lincolnſhire at a Towne called Sheford, and there te valiant Captaine <hi>Cromwell,</hi> (as her know fery well) not above twelve miles from Newarke, and ſome of his horſe have regained a prize of above three thouſand ſheep which the Ca<g ref="char:EOLhyphen"/>valliers had taken and were driving the ſaid Cattell to Newark, and they then got all (much good doe it their good hearts) creat quantity of fine flexe wooll, which cood booties (put altogether) will both feed and cloath them.</p>
+            <p>Her bring not all te newes from England, Wales or Scotland, or from Ireland, her hath bin informed with ſome news from Holland. Secretary Nicholas hath written from Oxford, and require, his Maje<g ref="char:EOLhyphen"/>ſties Agent at te Hague, to work, and indeavour by working with might and with mayne to hinder the comming of the Scots Am<g ref="char:EOLhyphen"/>baſſadours into England, and her can con you the reaſon of it, which is, that they ferily beleive that the ſaid Ambaſſadors will not comply with teyr purpoſes for they at Oxford will have him to be teir Am<g ref="char:EOLhyphen"/>baſſadour,
+<pb n="6" facs="tcp:155565:5"/>who did negotiate the marriage in England betwixt the Princeſſe Mary and the young Prince of Orange, but the States be wiſe, and know who to ſend, and they will have none for their Am<g ref="char:EOLhyphen"/>baſſadour, but thoſe that ſhall ſeek the Eſtabliſhment of the True Religion, and ſee thoſe Delinquents brought to Tryall, who for a while did hide their heads in that Countrey from the reach (as they thought) and the juſtice of the Parliament.</p>
+            <p>The times are doubtfull and dangerous; bloody and cruell, and why I pray you? that were a wiſe queſtion, if well anſwered, ſome body hath done ſomething, and ſomething is come of that, which is a Childe that ſpoke it ſelf a live to crying Warre, but now it will not be quieted, but will ſuck the Common-wealth dry of blood and money, Let us put this Childe of VVarre to nurſe in other Coun<g ref="char:EOLhyphen"/>treys, for the Land is weary of the keeping of it; it is now three yeeres old, and doth doe many unhappy tricks, but you muſt par<g ref="char:EOLhyphen"/>don it, for it knowes not what it does, it will prattle, and ſay it ſtands alone for the King and Parliament, But I wiſh it might fall and be quiet, then ſhould wee all rejoyce; The King and Parlia<g ref="char:EOLhyphen"/>ment would not ſtrive about the divided Childe of the Common-wealth, and your VVelch Mercury would write no more the un<g ref="char:EOLhyphen"/>happy tricks of this childiſh warre, which her doth count day by day, and are heere ſet downe in her Diurnall.</p>
+            <p>From VVarre, much VVine, and bad VVomen, keep you all well affected Citizens.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
